@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Prcyril/Prcyril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 # 💫 About Me:
 🔭 I’m currently working on<br><br>Building ClariVest, a startup valuation and investor intelligence platform, while developing side projects in AI, fintech and sports analytics.<br><br>👯 I’m looking to collaborate on<br><br>AI agents, SaaS products, startup tools, sports technology, and full-stack web applications.<br><br>🤝 I’m looking for help with<br><br>Startup learning, product strategy, AI engineering, cloud architecture, and turning ideas into scalable businesses.<br><br>🌱 I’m currently learning<br><br>Advanced AI systems, product management, all things startup, cloud infrastructure (AWS) and software architecture.<br><br>💬 Ask me about<br><br>Computer Science, AI & Machine Learning, Product Management, Startups, Full-Stack Development, Startup Valuation, Running, HYROX and Surfing.<br><br>⚡ Fun fact<br><br>I've completed half marathons, golf whenever I can, try and fail to learn to surf  and I'm learning to build startups while finishing my Computer Science degree.
@@ -20,5 +19,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Prcyril&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+
